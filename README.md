@@ -24,5 +24,5 @@ This project predicts rainfall using **machine learning techniques** in Python. 
 ## 🚀 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Rainfall_Prediction_using_Machine_learning.git
+   git clone https://github.com/SrijayaSarkar/Rainfall_Prediction_using_Machine_learning.git
    cd Rainfall_Prediction_using_Machine_learning
